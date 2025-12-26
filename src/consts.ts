@@ -48,7 +48,7 @@ export const MAX_ACTORS = 20;
 export const MAX_ACTORS_SMALL = 10;
 export const MAX_TRIGGERS = 30;
 export const MAX_ONSCREEN = 10;
-export const MAX_PROJECTILES = 5;
+export const MAX_PROJECTILES = 15;
 
 // Background Limits
 export const MAX_BACKGROUND_TILES = 16 * 12;
